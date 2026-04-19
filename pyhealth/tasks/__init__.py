@@ -67,3 +67,4 @@ from .variant_classification import (
     VariantClassificationClinVar,
 )
 from .patient_linkage_mimic3 import PatientLinkageMIMIC3Task
+from .mimic4_radiology_sentence_chexpert_proxy import MIMIC4RadiologySentenceCheXpertProxy
